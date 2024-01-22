@@ -1,0 +1,7 @@
+numpy==1.26.3
+pandas==2.1.4
+Django==5.0.1
+polars==0.20.5
+scikit-learn==1.4.0
+pytest==6.2.5
+spacy
